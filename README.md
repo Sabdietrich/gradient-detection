@@ -1,1 +1,1 @@
-# gradient-detection
+# Gradient Edge Dectection using OpenCV
